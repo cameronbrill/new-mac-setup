@@ -12,13 +12,21 @@
 - Iterm2: https://www.iterm2.com/downloads.html
 
 - VsCode: https://code.visualstudio.com/download
-  - Install Wakatime extension
+
+  - Install extensions:
+    - tabnine
+    - github copilot
+    - Go
+    - Python
+    - Vim
+    - WakaTime
+    - Prettier
+    - Code Spell Checker
 
 - Rectangle: https://rectangleapp.com/
   - Configure shortcuts to your liking
-  
 - Raycast: https://www.raycast.com/
-  - Map *Cmd + Space* to Raycast
+  - Map _Cmd + Space_ to Raycast
     - Deactive the shortcut for spotlight search
     - Go to Raycast > Preferences > General > Raycast Hotkey
 
