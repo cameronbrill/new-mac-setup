@@ -14,7 +14,7 @@
 - VsCode: https://code.visualstudio.com/download
   - Install Wakatime extension
 
-- Rectangle: https://rectangleapp.com/
+- Magnet: https://magnet.crowdcafe.com/index.html#download
   - Configure shortcuts to your liking
   
 - Raycast: https://www.raycast.com/
