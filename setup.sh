@@ -17,6 +17,7 @@ go install github.com/cameronbrill/create-go-app
 ## apps
 brew tap homebrew/cask-versions
 brew install --cask firefox-developer-edition
+brew install --cask google-chrome
 brew install --cask bitwarden
 brew install --cask spotify
 brew install --cask iterm2
