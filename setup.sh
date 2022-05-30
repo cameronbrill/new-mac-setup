@@ -23,6 +23,7 @@ brew install --cask spotify
 brew install --cask iterm2
 brew install --cask visual-studio-code
 brew install --cask raycast
+brew install --cask expressvpn
 
 ## link dotfiles
 cd ~
