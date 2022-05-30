@@ -26,6 +26,7 @@
 
 - VsCode:
 
+  - Theme: `XD Theme: Two Tone`
   - Install extensions:
     - tabnine
     - github copilot
