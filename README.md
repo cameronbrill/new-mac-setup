@@ -23,7 +23,7 @@
 
 - Spotify
 
-- Iterm2
+- Iterm2: preferences > Profiles > Other Actions > Import JSON Profiles... > import Dropdown.json from this repository.
 
 - WakaTime: vim and vscode config
 
