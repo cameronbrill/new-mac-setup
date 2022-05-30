@@ -1,22 +1,30 @@
 # New mac developer setup guide
 
-## running
+## OS Configuration:
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/cameronbrill/new-mac-setup/master/setup.sh)"
-```
+- Enable tap with one finger in Trackpad Settings
+- Enable "three finger drag": https://support.apple.com/en-us/HT204609
 
-## Applications to install && relevant config:
+## Terminal Configuration:
 
-- Bitwarden: https://bitwarden.com/download/
-  - Install the chrome plugin and login
-- Firefox Developer Edition: https://www.mozilla.org/en-US/firefox/developer/
+- Run the bash script: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/cameronbrill/new-mac-setup/master/setup.sh)"`
 
-- Spotify: https://www.spotify.com/us/download/mac/
+## Applications to configure:
 
-- Iterm2: https://www.iterm2.com/downloads.html
+- [Rectangle](https://rectangleapp.com/):
 
-- VsCode: https://code.visualstudio.com/download
+  - Manual download required
+  - Configure shortcuts to your liking
+
+- Bitwarden
+
+- Firefox Developer Edition
+
+- Spotify
+
+- Iterm2:
+
+- VsCode:
 
   - Install extensions:
     - tabnine
@@ -28,18 +36,19 @@
     - Prettier
     - Code Spell Checker
 
-- Rectangle: https://rectangleapp.com/
-  - Configure shortcuts to your liking
-- Raycast: https://www.raycast.com/
+- [Raycast](https://www.raycast.com/):
   - Map _Cmd + Space_ to Raycast
     - Deactive the shortcut for spotlight search
     - Go to Raycast > Preferences > General > Raycast Hotkey
 
-## OS Configuration:
+## Browser Extensions
 
-- Enable tap with one finger in Trackpad Settings
-- Enable "three finger drag": https://support.apple.com/en-us/HT204609
-
-## Terminal Configuration:
-
-- Run the bash script: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/cameronbrill/new-mac-setup/master/setup.sh)"`
+- Bitwarden
+- ExpressVPN
+- SponsorBlock
+- Return Youtube Dislike
+- uBlock Origin
+- Honey
+- React Dev Tools
+- Tab Groups
+- Tab Containers
