@@ -5,11 +5,8 @@
 ## install bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-## install oh my zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
 ## core
-brew install python go
+brew install python go thefuck
 
 ## :)
 go install github.com/cameronbrill/create-go-app
@@ -44,3 +41,10 @@ for - in dotfiles/code/*.json; do
   fi
   ln -s ~/dotfiles/code/${file} ~/Library/Application\ Support/Code/User/${file}
 done
+
+
+## instal zsh plugins
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+brew install zsh-history-substring-search
+echo 'source /usr/local/share/zsh-history-substring-search/zsh-history-substring-search.zsh' >> ~/.zshrc
