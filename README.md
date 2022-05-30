@@ -11,7 +11,7 @@
 
 ## Applications to configure:
 
-- [Rectangle](https://rectangleapp.com/):
+- [Magnet](https://magnet.crowdcafe.com/index.html#download)
 
   - Manual download required
   - Configure shortcuts to your liking
