@@ -1,10 +1,15 @@
 # New mac developer setup guide
 
+## running
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/cameronbrill/new-mac-setup/master/setup.sh)"
+```
+
 ## Applications to install && relevant config:
 
 - Bitwarden: https://bitwarden.com/download/
   - Install the chrome plugin and login
-  
 - Firefox Developer Edition: https://www.mozilla.org/en-US/firefox/developer/
 
 - Spotify: https://www.spotify.com/us/download/mac/
@@ -35,14 +40,6 @@
 - Enable tap with one finger in Trackpad Settings
 - Enable "three finger drag": https://support.apple.com/en-us/HT204609
 
-
 ## Terminal Configuration:
 
-- Install homebrew: https://brew.sh/
-- Install zsh and ohmyzsh: http://sourabhbajaj.com/mac-setup/iTerm/zsh.html
-  - to fixture the question marks in the theme: https://github.com/robbyrussell/oh-my-zsh/issues/1906#issuecomment-252443982
-- Install python3 w/ `brew install python`
-- Install go: `brew install go`
-- Install create-go-app: `go install github.com/cameronbrill/create-go-app`
-
-
+- Run the bash script: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/cameronbrill/new-mac-setup/master/setup.sh)"`
