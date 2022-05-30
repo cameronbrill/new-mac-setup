@@ -33,7 +33,7 @@ for i in dotfiles/.*; do
   if [[ "${file}" == "." || "${file}" == ".." || "${file}" == ".git" ]]; then
     continue
   fi
-  ln -s "~/$i" ~/dotfiles/${file}
+  ln -s ~/dotfiles/${file} "~/$i"
 done
 
 ## install vscode config
