@@ -4,6 +4,7 @@
 
 - Enable tap with one finger in Trackpad Settings
 - Enable "three finger drag": https://support.apple.com/en-us/HT204609
+- install mac developer tools (includes git)
 
 ## Terminal Configuration:
 
@@ -22,7 +23,9 @@
 
 - Spotify
 
-- Iterm2:
+- Iterm2
+
+- WakaTime: vim and vscode config
 
 - VsCode:
 
