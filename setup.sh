@@ -8,6 +8,15 @@
 ## core
 brew install python go thefuck
 
+## git config
+echo "configuring git"
+echo "enter the name you'd like associated with git: "
+read gitname
+git config --global user.name $gitname
+echo "enter the email you'd like associated with git: "
+read gitemail
+git config --global user.email $gitemail
+
 ## :)
 go install github.com/cameronbrill/create-go-app
 
