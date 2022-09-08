@@ -33,7 +33,7 @@ brew install --cask expressvpn
 
 ## link dotfiles
 cd ~
-git clone git@github.com:cameronbrill/dotfiles.git
+git clone https://github.com/cameronbrill/dotfiles.git
 for i in dotfiles/.*; do
   file=${i##*/}
   if [[ "${file}" == "." || "${file}" == ".." || "${file}" == ".git" ]]; then
