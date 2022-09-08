@@ -31,6 +31,14 @@ brew install --cask visual-studio-code
 brew install --cask raycast
 brew install --cask expressvpn
 
+# graphite
+brew install withgraphite/tap/graphite
+
+echo "configuring graphite"
+echo "Visit https://app.graphite.dev/activate to obtain your auth token and then paste here: "
+read graphitetoken
+gt auth --token $graphitetoken
+
 ## link dotfiles
 cd ~
 git clone https://github.com/cameronbrill/dotfiles.git
