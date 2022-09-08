@@ -45,6 +45,8 @@
 - [Raycast](https://www.raycast.com/):
   - Map _Cmd + Space_ to Raycast
     - Deactive the shortcut for spotlight search
+      - go to System Preferences > Spotlight > Keyboard Shortcuts 
+      - uncheck Show Spotlight search
     - Go to Raycast > Preferences > General > Raycast Hotkey
 
 ## Browser Extensions
