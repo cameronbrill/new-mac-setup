@@ -21,6 +21,8 @@
 
 - Firefox Developer Edition
 
+- Chrome
+
 - Spotify
 
 - Iterm2: preferences > Profiles > Other Actions > Import JSON Profiles... > import Dropdown.json from this ~/dotfiles/iterm/profiles/.
