@@ -12,7 +12,7 @@
 
 ## Applications to configure:
 
-- [Magnet](https://magnet.crowdcafe.com/index.html#download)
+- [Rectangle](https://rectangleapp.com/)
 
   - Manual download required
   - Configure shortcuts to your liking
