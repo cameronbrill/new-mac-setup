@@ -17,7 +17,7 @@
   - Manual download required
   - Configure shortcuts to your liking
 
-- Bitwarden
+- 1Password
 
 - Firefox Developer Edition
 
@@ -47,7 +47,7 @@
 
 ## Browser Extensions
 
-- Bitwarden
+- 1Password
 - ExpressVPN
 - SponsorBlock
 - Return Youtube Dislike
