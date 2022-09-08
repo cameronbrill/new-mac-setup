@@ -18,7 +18,7 @@ read gitemail
 git config --global user.email $gitemail
 
 ## :)
-go install github.com/cameronbrill/create-go-app
+go install github.com/cameronbrill/create-go-app@latest
 
 ## apps
 brew tap homebrew/cask-versions
