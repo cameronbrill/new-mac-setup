@@ -31,7 +31,7 @@
 
 - VsCode:
 
-  - Theme: `XD Theme: Two Tone`
+  - Theme: `Tomorrow Night Blue`
   - Install extensions:
     - tabnine
     - github copilot
