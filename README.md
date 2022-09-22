@@ -51,12 +51,13 @@
 
 ## Browser Extensions
 
-- 1Password
-- ExpressVPN
-- SponsorBlock
-- Return Youtube Dislike
-- uBlock Origin
-- Honey
-- React Dev Tools
-- Tab Groups
-- Tab Containers
+- [1Password](https://support.1password.com/getting-started-browser/)
+- [ExpressVPN](https://www.expressvpn.com/vpn-software#:~:text=VPN%20extensions%20for%20browsers)
+- [SponsorBlock](https://sponsor.ajay.app/)
+- [Return Youtube Dislike](https://www.returnyoutubedislike.com/install)
+- [uBlock Origin](https://ublockorigin.com/)
+- [Honey](https://help.joinhoney.com/article/39-what-is-the-honey-extension-and-how-do-i-get-it)
+- [React Dev Tools](https://github.com/facebook/react/tree/main/packages/react-devtools-extensions#installation)
+- [Refined Github](https://github.com/refined-github/refined-github)
+- Tab Groups (different extensions for chrome and firefox (for now *cough cough*))
+- Tab Containers (different extensions for chrome and firefox)
